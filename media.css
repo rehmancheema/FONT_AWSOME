@@ -1,0 +1,177 @@
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+    .dog1 a{
+        font-size: 17px;
+    }
+    .icon-text h2 {
+        margin-top: 10vh;
+        font-size: 28px;
+    }
+    .dog .fa-solid {
+        font-size: 33px;
+        color: black;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .search-bar {
+        display: flex;
+        width: 90%;
+        border-radius: 50px;
+        padding: 15px;
+        background-color: white;
+        border: 2px solid black;
+        text-align: center;
+        align-items: center;
+        /* margin-top: 10px; */
+    }
+    .tag ul{
+        margin-left: 4%;
+    }
+    .card-text {
+        font-size: 21px;
+        text-align: center;
+    }
+    .dog .fa-solid {
+        font-size: 35px;
+        color: black;
+    }
+    .dog1 a {
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .dog a {
+        text-decoration: none;
+        color: gray;
+        font-size: 13px;
+    }
+    .logo1{
+        /* height:100% ; */
+    }
+    .p{
+        font-size: 15px;
+    }
+    .button1 a {
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: 500;
+        color: black;
+        margin-left: 5px;
+    }
+    .button1{
+        margin-top: 30px;
+    }
+    .card-title {
+        text-align: center;
+        text-decoration: none;
+        font-size: 15px;
+        margin-top: 5px;
+        color: black;
+    }
+    .icon-box a {
+        text-decoration: none;
+        color: black;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+    .text2 {
+        /* text-align: center; */
+        margin-top: 3vh;
+    }
+    .para{
+        font-size: 13px;
+    }
+    .searchbox .p{
+        margin-left: 0px;
+    }
+    .box-text p{
+        font-size: 14px;
+    }
+    .footer p {
+        color: whitesmoke;
+        font-size: 12px;
+    }
+}
+@media screen and (min-width: 425px) and (max-width: 768px) ,(min-width:320px) {
+    .social .fa{
+        display: none;
+    }
+    .search-bar {
+        display: flex;
+        width: 100%;
+        border-radius: 50px;
+        padding: 6px;
+        background-color: white;
+        border: 2px solid black;
+        text-align: center;
+        align-items: center;
+        margin: auto;
+        margin-top: -26px;
+    }
+    .navbar{
+        padding-left: 0px;
+    }
+    .tag ul{
+        margin-left: 0px;
+        padding-left: 0px;
+        font-size: 13px;
+    }
+    .number{
+        text-align: center;
+    }
+    .head{
+        text-align: center;
+    }
+    .dog{
+        text-align: center;
+    }
+    .dog1{
+        justify-content: center;
+    }
+    .icon-text p{
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-size: 12px;
+    }
+    .icon-text h2 {
+        margin-top: 13vh;
+        font-size: 16px;
+    }
+    .button1{
+        justify-content: center;
+    }
+    .card {
+        border-radius: 20px;
+        margin-top: 16px;
+    }
+    .text2 {
+        /* text-align: center; */
+        margin-top: 10vh;
+        text-align: center;
+    }
+    .text3 {
+        margin-top: 10vh;
+        text-align: center;
+    }
+    .box4 {
+        display: flex;
+        border: 2px dotted gray;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .box4 p {
+        font-size: 14px;
+        margin-top: 14px;
+    }
+    .logo5{
+        height: 37vh;
+    }
+    .logobox {
+        border: 1px solid aqua;
+        text-align: center;
+        background-color: rgb(76, 145, 145);
+        height: 20vh;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+}
